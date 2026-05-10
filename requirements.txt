@@ -1,0 +1,9 @@
+torch
+torchaudio
+speechbrain
+librosa
+soundfile
+numpy
+pymongo
+faiss-cpu
+webrtcvad

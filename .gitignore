@@ -1,0 +1,21 @@
+# virtual env
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# vscode
+.vscode/
+
+# audio dataset
+dataset/
+
+# processed audio
+processed/
+
+# faiss index
+indexes/
+
+# temp
+*.tmp
