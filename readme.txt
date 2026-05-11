@@ -140,7 +140,7 @@ Lệnh này sẽ:
 * lưu MongoDB
 
 ```bash
-python src/build_dataset.py
+python -m src.build_dataset
 ```
 
 Sau khi hoàn thành:
